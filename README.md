@@ -3,7 +3,7 @@
 - 🏡 Moro em Garanhuns - PE
 - 👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE
 - 💻 Amante de front-end e design 
-- 👩🏻‍💻 Atualmente, estudando Python
+- 👩🏻‍💻 Atualmente, estudando Javascript e Python
 ##
  <div>
   <a href="https://github.com/luisaferreira">
